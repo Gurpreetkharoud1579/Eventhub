@@ -1,0 +1,45 @@
+.event-registration-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style for form headings */
+  .event-registration-container h2 {
+    text-align: center;
+  }
+  
+  /* Style for form labels */
+  .event-registration-container label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  /* Style for form input fields */
+  .event-registration-container input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Style for the submit button */
+  .event-registration-container button {
+    width: 100%;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  /* Style for the submit button on hover */
+  .event-registration-container button:hover {
+    background-color: #0056b3;
+  }
